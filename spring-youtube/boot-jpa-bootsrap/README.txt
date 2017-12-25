@@ -1,0 +1,1 @@
+insert into t_tasks(name, description, date_created, finished) values('task1', 'desc1', current_timestamp(), 0);
